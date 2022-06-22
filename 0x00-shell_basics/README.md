@@ -1,1 +1,2 @@
-secnd readme
+#!bin/bash
+second readme
