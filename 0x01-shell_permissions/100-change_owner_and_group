@@ -1,1 +1,2 @@
-=e #!/bin/bash\n chown vincent:staff *
+#!/bin/bash
+chown vincent:staff *
